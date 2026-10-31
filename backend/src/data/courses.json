@@ -1,0 +1,20 @@
+[
+  {
+    "id": "course-001",
+    "name": "Podatkovne baze",
+    "course_code": "PB",
+    "faculty_id": "faculty-001",
+    "program_id": "program-001",
+    "year": 2,
+    "semester": 1
+  },
+  {
+    "id": "course-002",
+    "name": "Algoritmi",
+    "course_code": "ALG",
+    "faculty_id": "faculty-001",
+    "program_id": "program-001",
+    "year": 2,
+    "semester": 2
+  }
+]

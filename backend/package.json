@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Application for sharing notes",
+  "main": "src/server.js",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "test": "echo idk",
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "seed": "node src/seed/seedDatabase.js",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "~2.8.6",
+    "dotenv": "~18.0.9",
+    "express": "~5.3.0",
+    "mongoose": "~9.11.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "10.0.1",
+    "eslint": "10.13.0",
+    "globals": "16.5.0",
+    "nodemon": "^3.1.14"
+  }
+}
