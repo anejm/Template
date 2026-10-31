@@ -1,20 +1,134 @@
 [
   {
-    "id": "course-001",
-    "name": "Podatkovne baze",
-    "course_code": "PB",
-    "faculty_id": "faculty-001",
-    "program_id": "program-001",
-    "year": 2,
-    "semester": 1
+    "_id": "673000000000000000000001",
+    "faculty_id": "671000000000000000000001",
+    "program_id": "672000000000000000000001",
+    "name": "Uvod v programiranje",
+    "course_code": "RAC-101",
+    "year": 1,
+    "semester": 1,
+    "ects": 6,
+    "description": "Demonstracijski opis predmeta Uvod v programiranje."
   },
   {
-    "id": "course-002",
-    "name": "Algoritmi",
-    "course_code": "ALG",
-    "faculty_id": "faculty-001",
-    "program_id": "program-001",
+    "_id": "673000000000000000000002",
+    "faculty_id": "671000000000000000000001",
+    "program_id": "672000000000000000000001",
+    "name": "Podatkovne strukture in algoritmi",
+    "course_code": "RAC-201",
     "year": 2,
-    "semester": 2
+    "semester": 1,
+    "ects": 6,
+    "description": "Demonstracijski opis predmeta Podatkovne strukture in algoritmi."
+  },
+  {
+    "_id": "673000000000000000000003",
+    "faculty_id": "671000000000000000000001",
+    "program_id": "672000000000000000000001",
+    "name": "Podatkovne baze",
+    "course_code": "RAC-202",
+    "year": 2,
+    "semester": 2,
+    "ects": 6,
+    "description": "Demonstracijski opis predmeta Podatkovne baze."
+  },
+  {
+    "_id": "673000000000000000000004",
+    "faculty_id": "671000000000000000000001",
+    "program_id": "672000000000000000000001",
+    "name": "Računalniška omrežja",
+    "course_code": "RAC-301",
+    "year": 3,
+    "semester": 1,
+    "ects": 6,
+    "description": "Demonstracijski opis predmeta Računalniška omrežja."
+  },
+  {
+    "_id": "673000000000000000000005",
+    "faculty_id": "671000000000000000000001",
+    "program_id": "672000000000000000000001",
+    "name": "Operacijski sistemi",
+    "course_code": "RAC-302",
+    "year": 3,
+    "semester": 2,
+    "ects": 6,
+    "description": "Demonstracijski opis predmeta Operacijski sistemi."
+  },
+  {
+    "_id": "673000000000000000000006",
+    "faculty_id": "671000000000000000000001",
+    "program_id": "672000000000000000000001",
+    "name": "Spletno programiranje",
+    "course_code": "RAC-203",
+    "year": 2,
+    "semester": 2,
+    "ects": 6,
+    "description": "Demonstracijski opis predmeta Spletno programiranje."
+  },
+  {
+    "_id": "673000000000000000000007",
+    "faculty_id": "671000000000000000000002",
+    "program_id": "672000000000000000000003",
+    "name": "Osnove elektrotehnike",
+    "course_code": "EL-101",
+    "year": 1,
+    "semester": 1,
+    "ects": 6,
+    "description": "Demonstracijski opis predmeta Osnove elektrotehnike."
+  },
+  {
+    "_id": "673000000000000000000008",
+    "faculty_id": "671000000000000000000002",
+    "program_id": "672000000000000000000003",
+    "name": "Digitalna tehnika",
+    "course_code": "EL-201",
+    "year": 2,
+    "semester": 1,
+    "ects": 6,
+    "description": "Demonstracijski opis predmeta Digitalna tehnika."
+  },
+  {
+    "_id": "673000000000000000000009",
+    "faculty_id": "671000000000000000000003",
+    "program_id": "672000000000000000000004",
+    "name": "Programiranje 1",
+    "course_code": "ITK-101",
+    "year": 1,
+    "semester": 1,
+    "ects": 6,
+    "description": "Demonstracijski opis predmeta Programiranje 1."
+  },
+  {
+    "_id": "673000000000000000000010",
+    "faculty_id": "671000000000000000000003",
+    "program_id": "672000000000000000000004",
+    "name": "Računalniške komunikacije",
+    "course_code": "ITK-202",
+    "year": 2,
+    "semester": 2,
+    "ects": 6,
+    "description": "Demonstracijski opis predmeta Računalniške komunikacije."
+  },
+  {
+    "_id": "673000000000000000000011",
+    "faculty_id": "671000000000000000000004",
+    "program_id": "672000000000000000000005",
+    "name": "Osnove ekonomije",
+    "course_code": "EK-101",
+    "year": 1,
+    "semester": 1,
+    "ects": 6,
+    "description": "Demonstracijski opis predmeta Osnove ekonomije."
+  },
+  {
+    "_id": "673000000000000000000012",
+    "faculty_id": "671000000000000000000005",
+    "program_id": "672000000000000000000006",
+    "name": "Diskretna matematika",
+    "course_code": "MAT-101",
+    "year": 1,
+    "semester": 1,
+    "ects": 6,
+    "description": "Demonstracijski opis predmeta Diskretna matematika."
   }
 ]

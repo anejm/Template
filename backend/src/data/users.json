@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "674000000000000000000001",
+    "email": "luka.novak@example.test",
+    "password_hash": "REPLACE_WITH_BCRYPT_HASH",
+    "role": "user",
+    "profile": {
+      "name": "Luka",
+      "surname": "Novak",
+      "bio": "Študent/-ka, ki deli zapiske in študijsko gradivo."
+    },
+    "faculty_ids": [
+      "671000000000000000000001"
+    ],
+    "is_active": true,
+    "created_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "_id": "674000000000000000000002",
+    "email": "nina.kovač@example.test",
+    "password_hash": "REPLACE_WITH_BCRYPT_HASH",
+    "role": "user",
+    "profile": {
+      "name": "Nina",
+      "surname": "Kovač",
+      "bio": "Študent/-ka, ki deli zapiske in študijsko gradivo."
+    },
+    "faculty_ids": [
+      "671000000000000000000002"
+    ],
+    "is_active": true,
+    "created_at": "2026-02-15T10:00:00Z"
+  },
+  {
+    "_id": "674000000000000000000003",
+    "email": "miha.horvat@example.test",
+    "password_hash": "REPLACE_WITH_BCRYPT_HASH",
+    "role": "user",
+    "profile": {
+      "name": "Miha",
+      "surname": "Horvat",
+      "bio": "Študent/-ka, ki deli zapiske in študijsko gradivo."
+    },
+    "faculty_ids": [
+      "671000000000000000000003"
+    ],
+    "is_active": true,
+    "created_at": "2026-03-15T10:00:00Z"
+  },
+  {
+    "_id": "674000000000000000000004",
+    "email": "eva.krajnc@example.test",
+    "password_hash": "REPLACE_WITH_BCRYPT_HASH",
+    "role": "user",
+    "profile": {
+      "name": "Eva",
+      "surname": "Krajnc",
+      "bio": "Študent/-ka, ki deli zapiske in študijsko gradivo."
+    },
+    "faculty_ids": [
+      "671000000000000000000004"
+    ],
+    "is_active": true,
+    "created_at": "2026-04-15T10:00:00Z"
+  },
+  {
+    "_id": "674000000000000000000005",
+    "email": "žan.zupan@example.test",
+    "password_hash": "REPLACE_WITH_BCRYPT_HASH",
+    "role": "user",
+    "profile": {
+      "name": "Žan",
+      "surname": "Zupan",
+      "bio": "Študent/-ka, ki deli zapiske in študijsko gradivo."
+    },
+    "faculty_ids": [
+      "671000000000000000000005"
+    ],
+    "is_active": true,
+    "created_at": "2026-05-15T10:00:00Z"
+  },
+  {
+    "_id": "674000000000000000000006",
+    "email": "maja.mlakar@example.test",
+    "password_hash": "REPLACE_WITH_BCRYPT_HASH",
+    "role": "user",
+    "profile": {
+      "name": "Maja",
+      "surname": "Mlakar",
+      "bio": "Študent/-ka, ki deli zapiske in študijsko gradivo."
+    },
+    "faculty_ids": [
+      "671000000000000000000001"
+    ],
+    "is_active": true,
+    "created_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "_id": "674000000000000000000007",
+    "email": "jan.potočnik@example.test",
+    "password_hash": "REPLACE_WITH_BCRYPT_HASH",
+    "role": "user",
+    "profile": {
+      "name": "Jan",
+      "surname": "Potočnik",
+      "bio": "Študent/-ka, ki deli zapiske in študijsko gradivo."
+    },
+    "faculty_ids": [
+      "671000000000000000000002"
+    ],
+    "is_active": true,
+    "created_at": "2026-07-15T10:00:00Z"
+  },
+  {
+    "_id": "674000000000000000000008",
+    "email": "sara.kos@example.test",
+    "password_hash": "REPLACE_WITH_BCRYPT_HASH",
+    "role": "user",
+    "profile": {
+      "name": "Sara",
+      "surname": "Kos",
+      "bio": "Študent/-ka, ki deli zapiske in študijsko gradivo."
+    },
+    "faculty_ids": [
+      "671000000000000000000003"
+    ],
+    "is_active": true,
+    "created_at": "2026-08-15T10:00:00Z"
+  },
+  {
+    "_id": "674000000000000000000009",
+    "email": "tim.vidmar@example.test",
+    "password_hash": "REPLACE_WITH_BCRYPT_HASH",
+    "role": "user",
+    "profile": {
+      "name": "Tim",
+      "surname": "Vidmar",
+      "bio": "Študent/-ka, ki deli zapiske in študijsko gradivo."
+    },
+    "faculty_ids": [
+      "671000000000000000000004"
+    ],
+    "is_active": true,
+    "created_at": "2026-09-15T10:00:00Z"
+  },
+  {
+    "_id": "674000000000000000000010",
+    "email": "kaja.golob@example.test",
+    "password_hash": "REPLACE_WITH_BCRYPT_HASH",
+    "role": "user",
+    "profile": {
+      "name": "Kaja",
+      "surname": "Golob",
+      "bio": "Študent/-ka, ki deli zapiske in študijsko gradivo."
+    },
+    "faculty_ids": [
+      "671000000000000000000005"
+    ],
+    "is_active": true,
+    "created_at": "2026-01-15T10:00:00Z"
+  }
+]

@@ -1,24 +1,184 @@
 [
   {
-    "id": "note-001",
-    "user_id": "user-001",
-    "course_id": "course-001",
-    "title": "Uvod v podatkovne baze",
-    "description": "Zapiski s predavanj in vaj.",
-    "rating_average": 4.7,
-    "rating_count": 12,
+    "_id": "675000000000000000000001",
+    "user_id": "674000000000000000000001",
+    "course_id": "673000000000000000000001",
+    "title": "Osnove Pythona – povzetek predavanj",
+    "description": "Spremenljivke, tipi, pogoji, zanke in funkcije.",
     "status": "published",
-    "created_at": "2026-10-20"
+    "current_version_id": "676000000000000000000001",
+    "rating_average": 4.7,
+    "rating_count": 3,
+
+    "created_at": "2026-09-01T12:00:00Z"
   },
   {
-    "id": "note-002",
-    "user_id": "user-002",
-    "course_id": "course-001",
-    "title": "MongoDB in SQL",
-    "description": "Primerjava relacijskih in dokumentnih baz.",
-    "rating_average": 4.2,
-    "rating_count": 8,
+    "_id": "675000000000000000000002",
+    "user_id": "674000000000000000000002",
+    "course_id": "673000000000000000000002",
+    "title": "Podatkovne strukture – priprava na kolokvij",
+    "description": "Seznami, skladi, vrste, drevesa in časovna zahtevnost.",
     "status": "published",
-    "created_at": "2026-10-22"
+    "current_version_id": "676000000000000000000002",
+    "rating_average": 4.8,
+    "rating_count": 3,
+
+    "created_at": "2026-09-02T12:00:00Z"
+  },
+  {
+    "_id": "675000000000000000000003",
+    "user_id": "674000000000000000000003",
+    "course_id": "673000000000000000000003",
+    "title": "SQL in relacijski model",
+    "description": "Normalizacija, relacije, JOIN in agregatne funkcije.",
+    "status": "published",
+    "current_version_id": "676000000000000000000003",
+    "rating_average": 4.5,
+    "rating_count": 3,
+
+    "created_at": "2026-09-03T12:00:00Z"
+  },
+  {
+    "_id": "675000000000000000000004",
+    "user_id": "674000000000000000000004",
+    "course_id": "673000000000000000000004",
+    "title": "Računalniška omrežja – OSI in TCP/IP",
+    "description": "Pregled plasti, protokolov in naslovljanja.",
+    "status": "published",
+    "current_version_id": "676000000000000000000004",
+    "rating_average": 4.9,
+    "rating_count": 3,
+
+    "created_at": "2026-09-04T12:00:00Z"
+  },
+  {
+    "_id": "675000000000000000000005",
+    "user_id": "674000000000000000000005",
+    "course_id": "673000000000000000000005",
+    "title": "Linux ukazi in procesi",
+    "description": "Povzetek procesov, datotečnega sistema in osnovnih ukazov.",
+    "status": "published",
+    "current_version_id": "676000000000000000000005",
+    "rating_average": 4.4,
+    "rating_count": 3,
+
+    "created_at": "2026-09-05T12:00:00Z"
+  },
+  {
+    "_id": "675000000000000000000006",
+    "user_id": "674000000000000000000006",
+    "course_id": "673000000000000000000006",
+    "title": "Angular in REST API",
+    "description": "Osnove komponent, servisov, routinga in HTTP komunikacije.",
+    "status": "published",
+    "current_version_id": "676000000000000000000006",
+    "rating_average": 4.6,
+    "rating_count": 3,
+
+    "created_at": "2026-09-06T12:00:00Z"
+  },
+  {
+    "_id": "675000000000000000000007",
+    "user_id": "674000000000000000000007",
+    "course_id": "673000000000000000000007",
+    "title": "Električna vezja – osnovni pojmi",
+    "description": "Ohmov zakon, Kirchhoffova zakona in primeri.",
+    "status": "published",
+    "current_version_id": "676000000000000000000007",
+    "rating_average": 4.2,
+    "rating_count": 3,
+
+    "created_at": "2026-09-07T12:00:00Z"
+  },
+  {
+    "_id": "675000000000000000000008",
+    "user_id": "674000000000000000000008",
+    "course_id": "673000000000000000000008",
+    "title": "Digitalna logika",
+    "description": "Logična vrata, Boolova algebra in kombinacijska vezja.",
+    "status": "published",
+    "current_version_id": "676000000000000000000008",
+    "rating_average": 4.7,
+    "rating_count": 3,
+
+    "created_at": "2026-09-08T12:00:00Z"
+  },
+  {
+    "_id": "675000000000000000000009",
+    "user_id": "674000000000000000000009",
+    "course_id": "673000000000000000000009",
+    "title": "Uvod v Go",
+    "description": "Sintaksa, tipi, funkcije, strukture in gorutine.",
+    "status": "published",
+    "current_version_id": "676000000000000000000009",
+    "rating_average": 4.3,
+    "rating_count": 3,
+
+    "created_at": "2026-09-09T12:00:00Z"
+  },
+  {
+    "_id": "675000000000000000000010",
+    "user_id": "674000000000000000000010",
+    "course_id": "673000000000000000000010",
+    "title": "Računalniške komunikacije – zapiski",
+    "description": "Prenos podatkov, Ethernet, IP in transportna plast.",
+    "status": "published",
+    "current_version_id": "676000000000000000000010",
+    "rating_average": 4.5,
+    "rating_count": 3,
+
+    "created_at": "2026-09-10T12:00:00Z"
+  },
+  {
+    "_id": "675000000000000000000011",
+    "user_id": "674000000000000000000001",
+    "course_id": "673000000000000000000011",
+    "title": "Mikroekonomija – ključni pojmi",
+    "description": "Ponudba, povpraševanje, elastičnost in tržno ravnotežje.",
+    "status": "published",
+    "current_version_id": "676000000000000000000011",
+    "rating_average": 4.1,
+    "rating_count": 3,
+
+    "created_at": "2026-09-11T12:00:00Z"
+  },
+  {
+    "_id": "675000000000000000000012",
+    "user_id": "674000000000000000000002",
+    "course_id": "673000000000000000000012",
+    "title": "Diskretna matematika – relacije",
+    "description": "Množice, relacije, funkcije in matematična indukcija.",
+    "status": "published",
+    "current_version_id": "676000000000000000000012",
+    "rating_average": 4.8,
+    "rating_count": 3,
+
+    "created_at": "2026-09-12T12:00:00Z"
+  },
+  {
+    "_id": "675000000000000000000013",
+    "user_id": "674000000000000000000003",
+    "course_id": "673000000000000000000001",
+    "title": "Vaje iz Pythona – dodatni primeri",
+    "description": "Rešeni primeri za utrjevanje osnov programiranja.",
+    "status": "draft",
+    "current_version_id": "676000000000000000000013",
+    "rating_average": null,
+    "rating_count": 0,
+
+    "created_at": "2026-09-13T12:00:00Z"
+  },
+  {
+    "_id": "675000000000000000000014",
+    "user_id": "674000000000000000000004",
+    "course_id": "673000000000000000000003",
+    "title": "Napredni SQL primeri",
+    "description": "Podpoizvedbe, pogledi in transakcije.",
+    "status": "draft",
+    "current_version_id": "676000000000000000000014",
+    "rating_average": null,
+    "rating_count": 0,
+
+    "created_at": "2026-09-14T12:00:00Z"
   }
 ]

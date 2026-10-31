@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "671000000000000000000001",
+    "university_id": "670000000000000000000001",
+    "name": "Fakulteta za računalništvo in informatiko",
+    "short_name": "FRI"
+  },
+  {
+    "_id": "671000000000000000000002",
+    "university_id": "670000000000000000000001",
+    "name": "Fakulteta za elektrotehniko",
+    "short_name": "FE"
+  },
+  {
+    "_id": "671000000000000000000003",
+    "university_id": "670000000000000000000002",
+    "name": "Fakulteta za elektrotehniko, računalništvo in informatiko",
+    "short_name": "FERI"
+  },
+  {
+    "_id": "671000000000000000000004",
+    "university_id": "670000000000000000000002",
+    "name": "Ekonomsko-poslovna fakulteta",
+    "short_name": "EPF"
+  },
+  {
+    "_id": "671000000000000000000005",
+    "university_id": "670000000000000000000003",
+    "name": "Fakulteta za matematiko, naravoslovje in informacijske tehnologije",
+    "short_name": "FAMNIT"
+  }
+]

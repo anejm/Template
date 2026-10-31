@@ -1,0 +1,562 @@
+[
+  {
+    "_id": "677000000000000000000001",
+    "user_id": "674000000000000000000003",
+    "target_type": "note",
+    "target_id": "675000000000000000000001",
+    "rating": 4,
+    "comment": "Zelo uporabno gradivo.",
+    "created_at": "2026-10-01T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000002",
+    "user_id": "674000000000000000000004",
+    "target_type": "note",
+    "target_id": "675000000000000000000001",
+    "rating": 5,
+    "comment": "Pregledno in dobro strukturirano.",
+    "created_at": "2026-10-02T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000003",
+    "user_id": "674000000000000000000005",
+    "target_type": "note",
+    "target_id": "675000000000000000000001",
+    "rating": 5,
+    "comment": "Pomagalo mi je pri pripravi.",
+    "created_at": "2026-10-03T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000004",
+    "user_id": "674000000000000000000004",
+    "target_type": "note",
+    "target_id": "675000000000000000000002",
+    "rating": 4,
+    "comment": "Zelo uporabno gradivo.",
+    "created_at": "2026-10-04T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000005",
+    "user_id": "674000000000000000000005",
+    "target_type": "note",
+    "target_id": "675000000000000000000002",
+    "rating": 5,
+    "comment": "Pregledno in dobro strukturirano.",
+    "created_at": "2026-10-05T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000006",
+    "user_id": "674000000000000000000006",
+    "target_type": "note",
+    "target_id": "675000000000000000000002",
+    "rating": 5,
+    "comment": "Pomagalo mi je pri pripravi.",
+    "created_at": "2026-10-06T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000007",
+    "user_id": "674000000000000000000005",
+    "target_type": "note",
+    "target_id": "675000000000000000000003",
+    "rating": 4,
+    "comment": "Zelo uporabno gradivo.",
+    "created_at": "2026-10-07T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000008",
+    "user_id": "674000000000000000000006",
+    "target_type": "note",
+    "target_id": "675000000000000000000003",
+    "rating": 5,
+    "comment": "Pregledno in dobro strukturirano.",
+    "created_at": "2026-10-08T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000009",
+    "user_id": "674000000000000000000007",
+    "target_type": "note",
+    "target_id": "675000000000000000000003",
+    "rating": 5,
+    "comment": "Pomagalo mi je pri pripravi.",
+    "created_at": "2026-10-09T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000010",
+    "user_id": "674000000000000000000006",
+    "target_type": "note",
+    "target_id": "675000000000000000000004",
+    "rating": 4,
+    "comment": "Zelo uporabno gradivo.",
+    "created_at": "2026-10-10T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000011",
+    "user_id": "674000000000000000000007",
+    "target_type": "note",
+    "target_id": "675000000000000000000004",
+    "rating": 5,
+    "comment": "Pregledno in dobro strukturirano.",
+    "created_at": "2026-10-11T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000012",
+    "user_id": "674000000000000000000008",
+    "target_type": "note",
+    "target_id": "675000000000000000000004",
+    "rating": 5,
+    "comment": "Pomagalo mi je pri pripravi.",
+    "created_at": "2026-10-12T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000013",
+    "user_id": "674000000000000000000007",
+    "target_type": "note",
+    "target_id": "675000000000000000000005",
+    "rating": 4,
+    "comment": "Zelo uporabno gradivo.",
+    "created_at": "2026-10-13T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000014",
+    "user_id": "674000000000000000000008",
+    "target_type": "note",
+    "target_id": "675000000000000000000005",
+    "rating": 5,
+    "comment": "Pregledno in dobro strukturirano.",
+    "created_at": "2026-10-14T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000015",
+    "user_id": "674000000000000000000009",
+    "target_type": "note",
+    "target_id": "675000000000000000000005",
+    "rating": 5,
+    "comment": "Pomagalo mi je pri pripravi.",
+    "created_at": "2026-10-15T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000016",
+    "user_id": "674000000000000000000008",
+    "target_type": "note",
+    "target_id": "675000000000000000000006",
+    "rating": 4,
+    "comment": "Zelo uporabno gradivo.",
+    "created_at": "2026-10-16T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000017",
+    "user_id": "674000000000000000000009",
+    "target_type": "note",
+    "target_id": "675000000000000000000006",
+    "rating": 5,
+    "comment": "Pregledno in dobro strukturirano.",
+    "created_at": "2026-10-17T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000018",
+    "user_id": "674000000000000000000010",
+    "target_type": "note",
+    "target_id": "675000000000000000000006",
+    "rating": 5,
+    "comment": "Pomagalo mi je pri pripravi.",
+    "created_at": "2026-10-18T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000019",
+    "user_id": "674000000000000000000009",
+    "target_type": "note",
+    "target_id": "675000000000000000000007",
+    "rating": 4,
+    "comment": "Zelo uporabno gradivo.",
+    "created_at": "2026-10-19T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000020",
+    "user_id": "674000000000000000000010",
+    "target_type": "note",
+    "target_id": "675000000000000000000007",
+    "rating": 5,
+    "comment": "Pregledno in dobro strukturirano.",
+    "created_at": "2026-10-20T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000021",
+    "user_id": "674000000000000000000001",
+    "target_type": "note",
+    "target_id": "675000000000000000000007",
+    "rating": 5,
+    "comment": "Pomagalo mi je pri pripravi.",
+    "created_at": "2026-10-21T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000022",
+    "user_id": "674000000000000000000010",
+    "target_type": "note",
+    "target_id": "675000000000000000000008",
+    "rating": 4,
+    "comment": "Zelo uporabno gradivo.",
+    "created_at": "2026-10-22T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000023",
+    "user_id": "674000000000000000000001",
+    "target_type": "note",
+    "target_id": "675000000000000000000008",
+    "rating": 5,
+    "comment": "Pregledno in dobro strukturirano.",
+    "created_at": "2026-10-23T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000024",
+    "user_id": "674000000000000000000002",
+    "target_type": "note",
+    "target_id": "675000000000000000000008",
+    "rating": 5,
+    "comment": "Pomagalo mi je pri pripravi.",
+    "created_at": "2026-10-24T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000025",
+    "user_id": "674000000000000000000001",
+    "target_type": "note",
+    "target_id": "675000000000000000000009",
+    "rating": 4,
+    "comment": "Zelo uporabno gradivo.",
+    "created_at": "2026-10-25T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000026",
+    "user_id": "674000000000000000000002",
+    "target_type": "note",
+    "target_id": "675000000000000000000009",
+    "rating": 5,
+    "comment": "Pregledno in dobro strukturirano.",
+    "created_at": "2026-10-26T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000027",
+    "user_id": "674000000000000000000003",
+    "target_type": "note",
+    "target_id": "675000000000000000000009",
+    "rating": 5,
+    "comment": "Pomagalo mi je pri pripravi.",
+    "created_at": "2026-10-27T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000028",
+    "user_id": "674000000000000000000002",
+    "target_type": "note",
+    "target_id": "675000000000000000000010",
+    "rating": 4,
+    "comment": "Zelo uporabno gradivo.",
+    "created_at": "2026-10-28T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000029",
+    "user_id": "674000000000000000000003",
+    "target_type": "note",
+    "target_id": "675000000000000000000010",
+    "rating": 5,
+    "comment": "Pregledno in dobro strukturirano.",
+    "created_at": "2026-10-29T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000030",
+    "user_id": "674000000000000000000004",
+    "target_type": "note",
+    "target_id": "675000000000000000000010",
+    "rating": 5,
+    "comment": "Pomagalo mi je pri pripravi.",
+    "created_at": "2026-10-30T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000031",
+    "user_id": "674000000000000000000003",
+    "target_type": "note",
+    "target_id": "675000000000000000000011",
+    "rating": 4,
+    "comment": "Zelo uporabno gradivo.",
+    "created_at": "2026-10-31T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000032",
+    "user_id": "674000000000000000000004",
+    "target_type": "note",
+    "target_id": "675000000000000000000011",
+    "rating": 5,
+    "comment": "Pregledno in dobro strukturirano.",
+    "created_at": "2026-10-32T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000033",
+    "user_id": "674000000000000000000005",
+    "target_type": "note",
+    "target_id": "675000000000000000000011",
+    "rating": 5,
+    "comment": "Pomagalo mi je pri pripravi.",
+    "created_at": "2026-10-33T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000034",
+    "user_id": "674000000000000000000004",
+    "target_type": "note",
+    "target_id": "675000000000000000000012",
+    "rating": 4,
+    "comment": "Zelo uporabno gradivo.",
+    "created_at": "2026-10-34T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000035",
+    "user_id": "674000000000000000000005",
+    "target_type": "note",
+    "target_id": "675000000000000000000012",
+    "rating": 5,
+    "comment": "Pregledno in dobro strukturirano.",
+    "created_at": "2026-10-35T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000036",
+    "user_id": "674000000000000000000006",
+    "target_type": "note",
+    "target_id": "675000000000000000000012",
+    "rating": 5,
+    "comment": "Pomagalo mi je pri pripravi.",
+    "created_at": "2026-10-36T14:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000037",
+    "user_id": "674000000000000000000004",
+    "target_type": "user",
+    "target_id": "674000000000000000000001",
+    "rating": 4,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-37T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000038",
+    "user_id": "674000000000000000000005",
+    "target_type": "user",
+    "target_id": "674000000000000000000001",
+    "rating": 4,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-38T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000039",
+    "user_id": "674000000000000000000005",
+    "target_type": "user",
+    "target_id": "674000000000000000000002",
+    "rating": 5,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-39T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000040",
+    "user_id": "674000000000000000000006",
+    "target_type": "user",
+    "target_id": "674000000000000000000002",
+    "rating": 5,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-40T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000041",
+    "user_id": "674000000000000000000006",
+    "target_type": "user",
+    "target_id": "674000000000000000000003",
+    "rating": 3,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-41T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000042",
+    "user_id": "674000000000000000000007",
+    "target_type": "user",
+    "target_id": "674000000000000000000003",
+    "rating": 3,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-42T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000043",
+    "user_id": "674000000000000000000007",
+    "target_type": "user",
+    "target_id": "674000000000000000000004",
+    "rating": 5,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-43T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000044",
+    "user_id": "674000000000000000000008",
+    "target_type": "user",
+    "target_id": "674000000000000000000004",
+    "rating": 5,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-44T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000045",
+    "user_id": "674000000000000000000008",
+    "target_type": "user",
+    "target_id": "674000000000000000000005",
+    "rating": 4,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-45T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000046",
+    "user_id": "674000000000000000000009",
+    "target_type": "user",
+    "target_id": "674000000000000000000005",
+    "rating": 4,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-46T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000047",
+    "user_id": "674000000000000000000009",
+    "target_type": "user",
+    "target_id": "674000000000000000000006",
+    "rating": 5,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-47T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000048",
+    "user_id": "674000000000000000000010",
+    "target_type": "user",
+    "target_id": "674000000000000000000006",
+    "rating": 5,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-48T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000049",
+    "user_id": "674000000000000000000010",
+    "target_type": "user",
+    "target_id": "674000000000000000000007",
+    "rating": 4,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-49T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000050",
+    "user_id": "674000000000000000000001",
+    "target_type": "user",
+    "target_id": "674000000000000000000007",
+    "rating": 4,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-50T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000051",
+    "user_id": "674000000000000000000001",
+    "target_type": "user",
+    "target_id": "674000000000000000000008",
+    "rating": 3,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-51T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000052",
+    "user_id": "674000000000000000000002",
+    "target_type": "user",
+    "target_id": "674000000000000000000008",
+    "rating": 3,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-52T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000053",
+    "user_id": "674000000000000000000002",
+    "target_type": "user",
+    "target_id": "674000000000000000000009",
+    "rating": 5,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-53T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000054",
+    "user_id": "674000000000000000000003",
+    "target_type": "user",
+    "target_id": "674000000000000000000009",
+    "rating": 5,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-54T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000055",
+    "user_id": "674000000000000000000003",
+    "target_type": "user",
+    "target_id": "674000000000000000000010",
+    "rating": 4,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-55T15:00:00Z",
+    "updated_at": null
+  },
+  {
+    "_id": "677000000000000000000056",
+    "user_id": "674000000000000000000004",
+    "target_type": "user",
+    "target_id": "674000000000000000000010",
+    "rating": 4,
+    "comment": "Zanesljiv avtor, gradivo je bilo koristno.",
+    "created_at": "2026-10-56T15:00:00Z",
+    "updated_at": null
+  }
+]
